@@ -1,7 +1,8 @@
 # Menu-GUI-on-microcontroller
 A GUI using  Light and Versatile Graphics Library  for microcontroller
 
-Please watch the below videos :
+The used LVGL library , ECG and PPG sensors, a bleutooth module and a STM32 microcontroler 
+Please watch the videos:
 
 https://user-images.githubusercontent.com/22806623/190273142-cb85ebe1-13fc-4ddd-8788-8fe4507a2720.mp4
 
